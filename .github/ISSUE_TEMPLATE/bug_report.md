@@ -31,5 +31,8 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
+**App version (please specify the mobile app version):**
+ - App version: [e.g. 3.4.5]
+
 **Additional context**
 Add any other context about the problem here.
